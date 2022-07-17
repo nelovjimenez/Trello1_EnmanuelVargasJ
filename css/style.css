@@ -1,0 +1,53 @@
+h1{
+
+    text-align: center;
+    margin-top:100px ;
+    
+    border: #ECFF20;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.formu{
+    
+    display:block;
+    margin: 0;
+    text-align: center;
+    width: 500px;
+    padding: 50px;
+    margin: auto;
+    margin-top: 100px;
+    
+}
+
+.inputs{
+    outline: none;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px; 
+    border-color: #ECFF20;
+    
+}
+
+label{
+    font-family: calibri;
+}
+body{
+    background:linear-gradient(to right,#D9FFBF,#F38911);box-sizing: border-box;
+    
+}
+
+.submit{
+    font-family: colibri;
+    width: 300px;
+    height: 30px;
+    background-color: #D9FFBF;
+    border:none;
+
+}
+.submit:hover{
+    background-color: #F38911;
+    transition: 0.5s;
+}
